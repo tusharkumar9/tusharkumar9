@@ -1,5 +1,6 @@
 # 💫 About Me:
-👋 Hello, I'm Tushar Kumar, a CSE student at Invertis University (2023-2027) specializing in full-stack development. I build scalable web applications using modern technologies and frameworks.<br>💡 Technical Expertise<br>Frontend Development: HTML5, CSS3, JavaScript (ES6+), React, Angular<br>Backend Development: Java, Python, Flask Framework, RESTful API Design<br>Database Management: MySQL, MongoDB<br>Development Tools: Git, GitHub, VS Code, Eclipse IDE<br>Deployment: Render, Cloud Platforms<br>📫 Let's Connect<br>I'm always excited to collaborate on interesting projects and explore new technologies.
+👋 Hello, 
+I'm Tushar Kumar, a CSE student at Invertis University (2023-2027) specializing in full-stack development. I build scalable web applications using modern technologies and frameworks.<br>💡 Technical Expertise<br>Frontend Development: HTML5, CSS3, JavaScript (ES6+), React, Angular<br>Backend Development: Java, Python, Flask Framework, RESTful API Design<br>Database Management: MySQL, MongoDB<br>Development Tools: Git, GitHub, VS Code, Eclipse IDE<br>Deployment: Render, Cloud Platforms<br>📫 Let's Connect<br>I'm always excited to collaborate on interesting projects and explore new technologies.
 
 
 ## 🌐 Socials:
