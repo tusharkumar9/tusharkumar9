@@ -40,6 +40,8 @@ Welcome to my GitHub! I'm passionate about building scalable systems, crafting e
 
 ## 🎯 Featured Projects
 
+### 🎓 Learning & Practice
+- **[LeetCode Solutions](https://github.com/tusharkumar9/LeetCode-Solutions)** - DSA practice and problem-solving
 
 ---
 
