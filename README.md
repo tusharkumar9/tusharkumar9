@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tushar!
 
-**Full-Stack Developer  | Backend Enthusiast**
+**Full-Stack Developer  | CyberSecurity Enthusiast**
 
 Welcome to my GitHub! I'm passionate about building scalable systems, crafting elegant solutions, and continuously learning new technologies. I love working with modern tech stacks and creating applications that make a difference.
 
